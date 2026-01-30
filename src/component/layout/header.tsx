@@ -25,7 +25,7 @@ const Header = () => {
           </li>
           <li>
             <Link href="/features/features" className="hover:text-blue-400 transition">
-              Features
+              Featuress
             </Link>
           </li>
           <li>
